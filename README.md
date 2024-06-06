@@ -1,16 +1,4 @@
 # stateful_final
 
-A new Flutter project.
+Stateful 위젯에서 효율적으로 리소스를 사용하기 위한 "widget" 속성을 사용해 보기 위한 예제 앱입니다. 특히 widget 속성은 매우 중요하므로 개념과 사용법을 잘 익혀 두시기 바랍니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
